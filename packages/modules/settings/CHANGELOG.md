@@ -1,5 +1,14 @@
 # @medusajs/settings
 
+## 2.20.0
+
+### Patch Changes
+
+- [#16477](https://github.com/medusajs/medusa/pull/16477) [`a6fff7ec920f3fa15b2f35429e186ebd76d0f1d4`](https://github.com/medusajs/medusa/commit/a6fff7ec920f3fa15b2f35429e186ebd76d0f1d4) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - feat(dashboard,settings): support fractional quantities and unit of measure in dashboard
+
+- Updated dependencies [[`785fd2b8a978201638a4d8d5ae9eea483958c0fb`](https://github.com/medusajs/medusa/commit/785fd2b8a978201638a4d8d5ae9eea483958c0fb)]:
+  - @medusajs/framework@2.20.0
+
 ## 2.19.0
 
 ### Patch Changes
